@@ -1,0 +1,11 @@
+release/BarsWidget.o
+release/HashComparisonWidget.o
+release/TextSearchComparisonWidget.o
+release/main.o
+release/mainwindow.o
+release/searchracewidget.o
+release/moc_BarsWidget.o
+release/moc_HashComparisonWidget.o
+release/moc_TextSearchComparisonWidget.o
+release/moc_mainwindow.o
+release/moc_searchracewidget.o

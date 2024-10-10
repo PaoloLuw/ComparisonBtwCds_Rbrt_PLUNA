@@ -1,0 +1,11 @@
+debug/BarsWidget.o
+debug/HashComparisonWidget.o
+debug/TextSearchComparisonWidget.o
+debug/main.o
+debug/mainwindow.o
+debug/searchracewidget.o
+debug/moc_BarsWidget.o
+debug/moc_HashComparisonWidget.o
+debug/moc_TextSearchComparisonWidget.o
+debug/moc_mainwindow.o
+debug/moc_searchracewidget.o
